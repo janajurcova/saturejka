@@ -9,3 +9,11 @@ h1,
 h2 {
   font-family: 'Playfair Display', serif;
 }
+
+body {
+    background-color: #FFEFEF;
+}
+
+.header {
+    text-align: center;
+}
